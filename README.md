@@ -11,7 +11,7 @@ Responsive menu bar's visibility dependant on mouse movement
 how to make the navigation bar "sticky" and always remain at the top of the browser's viewable area when vertical scrolling
 
 
-This can be previewed with html Previeww here:
+This can be previewed with htmlPreview here:
 
 https://htmlpreview.github.io/?https://github.com/FoxNineOne/Bankist-Bank-Website/blob/main/index.html
 
